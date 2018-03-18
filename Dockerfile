@@ -1,4 +1,4 @@
-FROM erdc/proteus:release-1.3.3
+FROM erdc/proteus:latest
 
 MAINTAINER ProteusDevelopers <proteus-dev@groups.google.com>
 
